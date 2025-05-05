@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+.nav{
+    box-shadow: 0px  0px  15px 5px white;
+}
+
+.text{
+  font-family:Montserrat;
+  
+}
+
+.text2{
+    font-family:Inter;
+}
+
+::-webkit-scrollbar{
+  width: 0px;
+}
+
+.card:hover{
+  box-shadow: 0px  0px  15px 5px white;
+  transform: scale(1.1);
+  transition: all 0.5s;
+}
