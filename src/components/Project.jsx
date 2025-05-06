@@ -33,7 +33,7 @@ let data=useContext(Authcontext);
 
      </div>  
       </a>
-      <p className='w-full text-xs  uppercase flex items-center  underline justify-center  h-[50px] '>  <a target='main' href={project.github}>  Source Code: {project.github} </a></p>
+      <p className='w-[90%] text-[10px]  uppercase flex items-center  underline justify-center  h-[50px] '>  <a target='main' href={project.github}>  Source Code: {project.github} </a></p>
      </div> 
      )
   })}

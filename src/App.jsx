@@ -17,9 +17,9 @@ const App = () => {
   useGSAP(()=>{
 
     gsap.from(div.current,{
-       scale:0,
+      stagger:0.3,
        opacity:0,
-       duration:1.5
+      duration:1
       
     })
 
