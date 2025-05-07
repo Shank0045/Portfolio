@@ -7,6 +7,7 @@ import About from './components/About'
 import Contact from './components/Contact'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
+import Skills from './components/Skills'
 
 
 
@@ -27,17 +28,15 @@ const App = () => {
   })
 
 
-
-
-
   return (
         <>
 
 <div ref={div} className='w-full  min-h-screen max-h-max  text-[#FFFFFF] bg-[#1A1A1A]'>
 <Routes>
 <Route path='/' element={<Intro/>} />
-<Route path='/project' element={<Project/>} />
 <Route path='/about' element={<About/>} />
+<Route path='/skills' element={<Skills/>} />
+<Route path='/project' element={<Project/>} />
 <Route path='/contact' element={<Contact/>} />
 
 </Routes>

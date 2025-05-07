@@ -46,18 +46,20 @@ const Nav = () => {
         }} className=' text-2xl relative lg:hidden' />
        <div ref={div}  className=' lg:hidden w-[100px] rounded-[30px] text2 flex items-center justify-around flex-col bg-[#1A1A1A] top-[-500px] absolute right-[39px] h-[300px] nav  '>
 
-       <p> <Link to="/">Home</Link> </p> 
+       <p> <Link to="/">Home</Link> </p>  
+        <p> <Link to="/about">About</Link> </p>
+         <p><Link  to="/skills" > Skills  </Link> </p>
        <p> <Link to="/project">Project</Link> </p>
-       <p> <Link to="/about">About</Link> </p>
        <p> <Link to="/contact">Contact</Link> </p>
     
        </div>
         </div>
-        <div className='  items-center hidden lg:flex  w-[40vw] tracking-[2px] text  lg:text-3xl justify-between text-[#FFFFFF] '>
-        <p> <Link to="/">Home</Link> </p> 
-        <p> <Link to="/project">Project</Link> </p>
+        <div className='  items-center hidden lg:flex  w-[50vw] tracking-[2px] text  lg:text-3xl justify-between text-[#FFFFFF] '>
+        <p> <Link to="/">Home</Link> </p>  
         <p> <Link to="/about">About</Link> </p>
-        <p> <Link to="/contact">Contact</Link> </p>
+         <p><Link  to="/skills" > Skills  </Link> </p>
+       <p> <Link to="/project">Project</Link> </p>
+       <p> <Link to="/contact">Contact</Link> </p>
         </div>
          
         </div>
