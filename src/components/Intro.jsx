@@ -4,18 +4,6 @@ import Nav from './Nav'
 
 const Intro = () => {
 
-   const div = useRef([])
-
-   const images = [
-      'css.png',
-      'git.png',
-      'gsap.jpg',
-      'html.png',
-      'js.webp',
-      'react.webp',
-      'tailwind.png',
-      'github.png'
-    ];
 
 
 
