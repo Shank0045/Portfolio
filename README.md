@@ -1,12 +1,43 @@
-# React + Vite
+<p align="center">
+  <img src="https://via.placeholder.com/1000x200?text=Shashank+-+Frontend+Developer" alt="Shashank Banner">
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 👋 Hi there, I'm Shashank!
 
-Currently, two official plugins are available:
+🎨 I'm a passionate **Frontend Developer** who loves crafting responsive, clean, and user-friendly websites.  
+💡 I work with **HTML5**, **CSS3**, **Tailwind CSS**, and **React**, using tools like **Git**, **GitHub**, and **VS Code** to build and maintain projects.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+### 🌐 Portfolio  
+🚀 Check out my work: [Shashank's Portfolio](https://github.com/Shank0045/Portfolio)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🛠️ Tech Stack
+- **Languages:** HTML5, CSS3  
+- **Frameworks & Libraries:** Tailwind CSS, React  
+- **Tools:** Git, GitHub, Visual Studio Code  
+- **Practices:** Mobile-First Design, Responsive Layouts, Clean Code
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shank0045&show_icons=true&theme=radical" alt="Shashank's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shank0045&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Replace with your actual LinkedIn URL)*  
+- 🌐 [Portfolio Repository](https://github.com/Shank0045/Portfolio)
+
+---
+
+Thanks for stopping by! 👨‍💻
