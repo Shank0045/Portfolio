@@ -5,13 +5,7 @@ export let Authcontext=createContext()
 const AuthData = ({children}) => {
 
 let data=[
-  {
-    "title": "EMS",
-    "skills": "HTML, CSS, JS",
-    "github": "https://github.com/Shank0045/EMS",
-    "demo": "https://shank0045.github.io/EMS/",
-    "image": "ems.png"
-  },
+
   {
     "title": "Spotify",
     "skills": "HTML, CSS, JS, React, Tailwind CSS",
@@ -27,12 +21,13 @@ let data=[
     "image": "ufc.png"
   },
   {
-    "title": "React Docs",
-    "skills": "HTML, CSS, JS, React,Frame Motion , Tailwind CSS",
-    "github": "https://github.com/Shank0045/React-Docs",
-    "demo": "https://shank0045.github.io/React-Docs/",
-    "image": "doc.png"
+    "title": "EMS",
+    "skills": "HTML, CSS, JS",
+    "github": "https://github.com/Shank0045/EMS",
+    "demo": "https://shank0045.github.io/EMS/",
+    "image": "ems.png"
   },
+
   {
     "title": "Lazarev Agency",
     "skills": "HTML, CSS, JS, GSAP",
@@ -53,6 +48,13 @@ let data=[
     "github": "https://github.com/Shank0045/Weather-App",
     "demo": "https://shank0045.github.io/Weather-App/",
     "image": "we.png"
+  },
+  {
+    "title": "React Docs",
+    "skills": " React,Frame Motion , Tailwind CSS",
+    "github": "https://github.com/Shank0045/React-Docs",
+    "demo": "https://shank0045.github.io/React-Docs/",
+    "image": "doc.png"
   },
   {
     "title": "Twitter-X",

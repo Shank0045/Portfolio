@@ -35,11 +35,11 @@ const Contact = () => {
    <p className='text2 w-[85vw] text-center py-7 text-2xl'> I'm passionate about creating seamless, user-centric web experiences and eager to contribute to a dynamic team. Reach out if you're looking for a dedicated frontend developer—I’d love to connect!</p>
 <div className=' w-[80vw] gap-10  flex-wrap flex items-center justify-center '>
 <div className=' w-[500px] max-h-max min-h-[498px]  border-[2px] rounded-4xl'>
-<p className='text-white  text2 text-center py-[20px] text-xl md:text-2xl '>Feel free to reach out through any of the platforms below:</p>
+<p className='text-white  text2 text-center p-[20px] text-xl md:text-2xl '>Feel free to reach out through any of the platforms below:</p>
 
-<a href="https://github.com/Shank0045"><div  className=' py-5 flex items-center text text-3xl w-full justify-around'><FaGithub className=' w-[100px]  md:w-[200px] text-7xl' />  Git-Hub </div></a>
-<a href="https://www.linkedin.com/in/shashank-s-b959a127b/"><div className='py-5 flex items-center text text-3xl w-full justify-around'><FaLinkedin  className='w-[100px]  md:w-[200px] text-7xl' /> Linkedin </div></a>
-<a  href="SHASHANK.S _RESUME.pdf" download="SHASHANK.S _RESUME.pdf" ><div className='flex py-5 items-center text text-3xl w-full justify-around'><CiFileOn className='w-[100px]  md:w-[200px] text-7xl' /> Resume </div></a>
+<a href="https://github.com/Shank0045"><div  className=' py-5 flex items-center text text-xl md:text-3xl w-full justify-around'><FaGithub className=' w-[100px]  md:w-[200px] text-7xl' />  Git-Hub </div></a>
+<a href="https://www.linkedin.com/in/shashank-s-b959a127b/"><div className='py-5 flex items-center text text-xl md:text-3xl w-full justify-around'><FaLinkedin  className='w-[100px]  md:w-[200px] text-7xl' /> Linkedin </div></a>
+<a  href="SHASHANK.S _RESUME.pdf" download="SHASHANK.S _RESUME.pdf" ><div className='flex py-5 items-center text  text-xl md:text-3xl w-full justify-around'><CiFileOn className='w-[100px]  md:w-[200px] text-7xl' /> Resume </div></a>
 
 
 </div>

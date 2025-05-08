@@ -20,13 +20,13 @@ const Skills = () => {
       <div className=' mt-[50px] flex items-center justify-center'>
     <div className=' flex items-center justify-around flex-col p-4 w-[90vw] max-h-max  min-h-[80vh] rounded-[50px] nav'>
     <h1 className='w-[200px]  md:w-[350px] text-2xl md:text-5xl my-9 flex items-center justify-center rounded-4xl  bg-[#1A1A1A] text nav h-[70px]' >MY-SKILLS</h1>
-  <div className='w-full  max-h-max flex items-center justify-around gap-10 md:gap-3  flex-wrap min-h-[50vh]'> 
 
 
- <div className=' flex items-center  justify-between flex-col p-5 w-[590px] rounded-[50px] border-[2px] gap-5  border-gray-300 max-h-max min-h-[320px] '>
- <h1 className=' text-3xl  md:text-4xl text text-center   font-[500]'>👨‍💻 Languages </h1>
 
- <div className=' w-full flex flex-wrap md:flex-nowrap gap-5 items-center justify-around'>  
+ <div className=' flex items-center  justify-between flex-col p-5 w-full rounded-[50px] border-[2px] gap-  border-gray-300 max-h-max  min-h-screen '>
+ <h1 className=' text-2xl  md:text-4xl text text-center pb-20  pt-8 font-[500]'>  👨‍💻 Languages, ⚙️ Frameworks, 🛠️ Tools, and 🎨 UI Expertise </h1>
+
+ <div className=' w-full flex flex-wrap  max-h-max   min-h-[70vh] gap-18 items-center justify-around'>  
    <div className='flex border-[2px] card border-teal-100 p-5 rounded-4xl flex-col items-center justify-center'>
   <TiHtml5 className=' text-orange-500 text-8xl' />
   <p className=' text-xl text-center text'> HTML-5</p>
@@ -39,18 +39,8 @@ const Skills = () => {
   <TbBrandJavascript className=' text-yellow-400 text-8xl'/>
   <p className=' text-[15px] text-center text'> JavaScript <br></br> (ES6+)</p>
   </div> 
-  
-  </div>
 
- </div>
-
-
-
- <div className=' flex items-center justify-between flex-col p-5 w-[590px] rounded-[50px] gap-5 border-[2px] border-gray-300 max-h-max min-h-[320px] '>
- <h1 className='text-4xl text text-center   font-[500]'>⚙️ Frameworks & Libraries </h1>
-
- <div className=' w-full flex flex-wrap md:flex-nowrap gap-5 items-center justify-around'>  
-   <div className='flex border-[2px] card border-teal-100 p-5 rounded-4xl flex-col items-center justify-center'>
+  <div className='flex border-[2px] card border-teal-100 p-5 rounded-4xl flex-col items-center justify-center'>
   <FaReact className=' text-blue-500 text-8xl' />
   <p className=' text-xl text-center text'>REACT</p>
   </div >
@@ -59,18 +49,8 @@ const Skills = () => {
   <p className=' text-[15px] text-center text'> TailWind-CSS</p>
   </div>
 
-  
-  </div>
 
- </div>
-
-
-
- <div className=' flex items-center justify-between flex-col p-5 w-[590px] rounded-[50px] gap-5 border-[2px] border-gray-300 max-h-max min-h-[320px] '>
- <h1 className='text-4xl text text-center   font-[500]'>🛠️ Tools & Platforms </h1>
-
- <div className=' w-full flex flex-wrap md:flex-nowrap gap-5 items-center justify-around'>  
-   <div className='flex border-[2px] card border-teal-100 p-5 rounded-4xl flex-col items-center justify-center'>
+  <div className='flex border-[2px] card border-teal-100 p-5 rounded-4xl flex-col items-center justify-center'>
   <FaGitAlt className=' text-orange-500 text-8xl' />
   <p className=' text-xl text-center text'> GIT</p>
   </div >
@@ -82,20 +62,9 @@ const Skills = () => {
   <VscVscodeInsiders className=' text-blue-500 text-8xl'/>
   <p className=' text-xl text-center text'> VS-Code</p>
   </div> 
-  
-  </div>
-
- </div>
 
 
-
-
-
- <div className=' flex items-center justify-between flex-col p-5 w-[590px] rounded-[50px]    gap-5 border-[2px] border-gray-300 max-h-max min-h-[320px] '>
- <h1 className='text-4xl text text-center   font-[500]'>🎨 Design & UI </h1>
-
- <div className=' w-full flex flex-wrap md:flex-nowrap gap-5 items-center justify-around'>  
-   <div className='flex border-[2px] card border-teal-100 p-5 rounded-4xl flex-col items-center justify-center'>
+  <div className='flex border-[2px] card border-teal-100 p-5 rounded-4xl flex-col items-center justify-center'>
   <LuFigma className=' text-orange-500 text-8xl' />
   <p className=' text-xl text-center text'> Figma</p>
   </div >
@@ -104,10 +73,9 @@ const Skills = () => {
   <p className=' text-xl text-center text'> GSAP</p>
   </div>
 
-  
   </div>
 
- </div> 
+  </div>
 
 
   </div>
@@ -115,7 +83,7 @@ const Skills = () => {
 
     </div>
 
-   </div>
+
    </section>
       
       
