@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1000x200?text=Shashank+-+Frontend+Developer" alt="Shashank Banner">
-</p>
+
 
 # 👋 Hi there, I'm Shashank!
 
@@ -22,20 +20,14 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shank0045&show_icons=true&theme=radical" alt="Shashank's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shank0045&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(Replace with your actual LinkedIn URL)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shashank-s-b959a127b/) 
 - 🌐 [Portfolio Repository](https://github.com/Shank0045/Portfolio)
 
 ---
