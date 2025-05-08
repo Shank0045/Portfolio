@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 Portfolio  
-🚀 Check out my work: [Shashank's Portfolio](https://github.com/Shank0045/Portfolio)
+🚀 Check out my work: [Shashank's Portfolio](https://shank0045.github.io/Portfolio/)
 
 ---
 
